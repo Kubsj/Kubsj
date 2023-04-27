@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubsj" alt="kubsj" /></a> </p>
 
-- 🔭 I’m currently working on [:fire:EXTINCTION.ORDER:fire:](https://kubsj.itch.io/extinction-order)
+- 🔭 I’m currently working on [:fire:EXTINCTION ORDER:fire:](https://kubsj.itch.io/extinction-order)
 
 - 🌱 I’m currently learning **.NET, C#, Unity**
 
